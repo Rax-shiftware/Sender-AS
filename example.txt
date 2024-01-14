@@ -1,1 +1,8 @@
 
+
+notify: the curly brackets are the code of inside. please don't copy that!
+on sample folder open:
+  editor.jsx /-
+   edit the editor.jsx this code: {
+  import { useState } from 'react'
+  }
